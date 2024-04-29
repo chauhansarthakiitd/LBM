@@ -73,4 +73,8 @@ Data Generation for Visualization: The program outputs simulation data in the VT
 Contributing
 Contributions to improve the simulation or visualization are welcome. Please feel free to fork the repository, make changes, and submit a pull request.
 
+## Citing
+
+Please cite this github account if you find this repo useful.
+
 
